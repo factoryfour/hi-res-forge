@@ -1,0 +1,6 @@
+/node_modules/
+ptest.js
+ptest-*.js
+config.js
+/config/*
+./vscode
